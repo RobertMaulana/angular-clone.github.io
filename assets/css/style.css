@@ -1,0 +1,147 @@
+.navbar-fixed {
+  background-color: #1976D2;
+}
+.hero-area {
+  height: 560px;
+  background: url("../img/super-hero-large.png") no-repeat bottom center,linear-gradient(145deg,#0D47A1,#42A5F5);
+  background-blend-mode: multiply;
+  background-size: 100%;
+}
+
+.btn-learn-more:hover {
+  color: #1976D2 !important;
+}
+.logo-nav{
+  margin-top: 10%;
+}
+.link-logo-nav {
+  height: 63px;
+}
+.link-li-margin-nav-left{
+  margin-left: 65px;
+}
+.link-logo-nav-feature{
+  font-size: 16px;
+}
+.hero-area{
+  padding-top:32px;
+  width: 100%;
+  margin: auto;
+  text-align: center;
+}
+.img-hero img {
+  width: 240px;
+  height: auto;
+}
+.text-hero h4 {
+  font-weight: 400;
+  color: #fff;
+}
+.btn-hero a{
+  background-color: #fff;
+  opacity: 0.8;
+  color: #1976D2;
+  font-weight: 500;
+  padding: 0 4rem;
+}
+.btn-hero a:hover {
+  background-color: #fff;
+  opacity: 1;
+}
+.badges .card .horizontal {
+  width: 784px;
+  width: 784px;
+  margin: auto;
+  position: absolute;
+  left: 19%;
+  top: 80%;
+  height: 104px;
+  padding: 20px;
+}
+section .badges div .card .horizontal .z-depth-3 {
+  width: 784px;
+  width: 784px;
+  margin: auto;
+  position: absolute;
+  left: 19%;
+  top: 80%;
+  height: 104px;
+  padding: 20px;
+}
+.badges .card{
+  width: 784px;
+  width: 784px;
+  margin: auto;
+  position: absolute;
+  left: 19%;
+  top: 80%;
+  height: 104px;
+  padding: 20px;
+}
+.badges .card .card-image img{
+  margin-top: 10px;
+}
+.badges .card .card-content{
+  font-size: 18px;
+  line-height: 60px;
+  margin: 0;
+  padding: 0;
+  color: #787E80;
+  margin-left: 15px;
+}
+.badges .card .card-btn{
+  margin-top: 13px;
+  margin-right: 10px;
+}
+.badges .card .card-btn a{
+  background-color: rgba(236,239,241,0.87);
+  color: #607D8B;
+}
+.container {
+  margin-top: 160px;
+}
+.container .row img {
+  max-width: 90%;
+}
+.container .row .title-content {
+  color: #546E7A;
+}
+.container .second-content{
+  margin-top: 50px
+}
+.container .row p {
+  margin: 0 0 24px 0;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 28px;
+  padding: 0;
+  font-weight: 400;
+  color: #546E7A;
+}
+.btn-angular-get-started{
+  margin: auto;
+  text-align: center;
+  margin: 40px;
+}
+.btn-angular-get-started a{
+  background-color: #1976D2;
+}
+.btn-angular-get-started a:hover{
+  background-color: #1E88E5;
+}
+.page-footer {
+  background: #263238;color: #fff;
+}
+.page-footer .footer-container .row ul li a {
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 28px;
+}
+.footer-copyright{
+  width: 90%;
+  margin: auto;
+}
+.footer-copyright p{
+  font-weight: 400;
+  font-size: 12px;
+}
